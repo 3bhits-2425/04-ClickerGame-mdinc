@@ -1,0 +1,7 @@
+1) I needed more than 10 minutes for the Intro + Unity Setup because my template, which I already created, still does not work correctly. I had to create a whole new Project which took a few minutes longer than it should.
+
+2) For the creation of the UI (Buttons and in my case the Ball) I needed not as much time as given. So I am back on the track. perfect with time.
+
+3) 4) & 5) successfully created a game where everything is working and small discussion About game with AI done. 
+
+I was done on time WITH even an Upgrade which AI has decided :)
